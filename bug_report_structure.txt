@@ -13,6 +13,6 @@
 ОПИСАНИЕ
 Шаги воспроизведения (Steps to reproduce)
 Фактический результат (Actual result)
-Ожидаемый результат (Expected result)
+Ожидаемый результат (Expeсted result)
 ДОПОЛНЕНИЯ
 Прикреплённый файл (Attachment)
